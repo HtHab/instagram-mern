@@ -1,0 +1,10 @@
+.header {
+  background-color: white;
+  position: sticky;
+}
+
+.header__logo {
+  object-fit: contain;
+  height: 50px;
+  padding: 20px;
+}
